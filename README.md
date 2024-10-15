@@ -1,5 +1,4 @@
-# Coding is done in 
-# _Ubuntu_
+# Coding is done in _Ubuntu_
 
 
 # Coding language: C
